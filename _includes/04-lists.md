@@ -1,4 +1,4 @@
-Italia
-Francia
-Belgica
-Bielorrusia
+- Italia
+- Francia
+- Belgica
+- Bielorrusia
